@@ -10,8 +10,8 @@ Time spent: **18** hours spent in total
 
 The following **required** functionality is completed:
 
-* [x ] On clicking next button it fetches another random meme
-* [x ] On clicking share button it allows to share the meme on supported apps
+* [x] On clicking next button it fetches another random meme.
+* [x] On clicking share button it allows to share the meme on supported apps.
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:

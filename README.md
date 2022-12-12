@@ -2,7 +2,7 @@
 
 ## *Sagnik Das*
 
-**MemeShare** is a toy project for api calling , it fetches a random meme from a subreddit.
+**MemeShare** is a toy project for api calling , it fetches a random programming meme from a subreddit.
 
 Time spent: **18** hours spent in total
 

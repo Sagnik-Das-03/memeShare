@@ -38,7 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
 * [x] Download the project zip file 
-<a href=''>Click here to Download Zip</a>
+<a href='https://github.com/Sagnik-Das-03/memeShare/archive/refs/heads/master.zip'>Click here to Download Zip</a>
 
 * [x] Extract it and open in android studio
 
@@ -46,7 +46,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Method 2:
 * [x] Download the apk
-<a href=''>Click here to Download Apk</a>
+<a href='https://drive.google.com/file/d/15tYmIU0V-LJOpqTWOKFYfwdN5lX8RC5Y/view?usp=drivesdk'>Click here to Download Apk</a>
 * [x] Install the apk on your android device
 * [x] Open the app 
 

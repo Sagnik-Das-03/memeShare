@@ -16,7 +16,12 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<p float="middle">
+<img src='https://github.com/Sagnik-Das-03/memeShare/blob/master/memeWT.gif' title='Walkthrough' width='240' alt='Video Walkthrough' />
+    <img src='https://github.com/Sagnik-Das-03/memeShare/blob/master/memeTest%20(1).jpg' title='mainscreen' width='240' alt='home screen' />
+    <img src='https://github.com/Sagnik-Das-03/memeShare/blob/master/memeTest%20(2).jpg' title='mainscreen' width='240' alt='home screen' />
+    <img src='https://github.com/Sagnik-Das-03/memeShare/blob/master/memeTest%20(3).jpg' title='mainscreen' width='240' alt='home screen' />
+ </p>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

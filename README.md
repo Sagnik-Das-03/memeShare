@@ -46,7 +46,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Method 2:
 * [x] Download the apk
-<a href='https://drive.google.com/file/d/15tYmIU0V-LJOpqTWOKFYfwdN5lX8RC5Y/view?usp=drivesdk'>Click here to Download Apk</a>
+<a href='https://drive.google.com/file/d/1voZDXrYx7cdKwAF7iQcs5dTxvlubBcrd/view?usp=share_link'>Click here to Download Apk</a>
 * [x] Install the apk on your android device
 * [x] Open the app 
 
